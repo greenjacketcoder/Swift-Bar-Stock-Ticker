@@ -6,7 +6,7 @@
 # <xbar.refreshTime>30s</xbar.refreshTime>
 
 symbol="${SYMBOL:-AAPL}"
-token="${FINNHUB_TOKEN:-REPLACE_WITH_YOUR_FINNHUB_TOKEN}"   # do not commit a real key
+token="${FINNHUB_TOKEN:-REPLACE_WITH_YOUR_FINNHUB_TOKEN}"
 
 if [[ -z "$token" || "$token" == "REPLACE_WITH_YOUR_FINNHUB_TOKEN" ]]; then
   echo "$symbol: N/A | color=gray"
