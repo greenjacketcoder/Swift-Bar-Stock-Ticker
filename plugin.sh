@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: LicenseRef-All-Rights-Reserved
+# Copyright (c) 2025 greenjacketcoder. All rights reserved.
 #!/bin/bash
 # <xbar.title>Finnhub Up/Down (Simple, No Extras)</xbar.title>
 # <xbar.version>v1.2</xbar.version>
